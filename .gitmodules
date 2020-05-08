@@ -1,0 +1,9 @@
+[submodule "mfe-app-main"]
+	path = mfe-app-main
+	url = https://github.com/webdq/mfe-app-main.git
+[submodule "mfe-app-vue"]
+	path = mfe-app-vue
+	url = https://github.com/webdq/mfe-app-vue.git
+[submodule "mfe-app-react"]
+	path = mfe-app-react
+	url = https://github.com/webdq/mfe-app-react.git
