@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "app:install": "npm-run-all --serial build install:*",
+    "app:install": "npm-run-all --serial install:*",
     "app:start": "npm-run-all --parallel start:*",
     "install:main": "cd mfe-app-main && yarn",
     "start:main": "cd mfe-app-main && yarn start",
